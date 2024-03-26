@@ -3,6 +3,13 @@
 ## Overview
 "Show-up" is a WeChat mini-program developed during the Summer 2022 as a collaborative effort between students from New York University and the University of Nottingham. The program is designed to offer a social platform similar to Instagram, with the added feature of student email verification to ensure a community of verified students.
 
+## Demo Video
+
+
+https://github.com/jasisboredsojoinedgithub/Show-Up/assets/98096942/b1a83a6c-d2cf-45bc-8073-35a8b6fbcc6a
+
+
+
 ## Features
 - **Instagram-like Experience:** Users can enjoy a familiar social media experience, tailored for the student community.
 - **Student Email Verification:** To maintain an exclusive environment, the platform requires users to verify their status through their academic email.
